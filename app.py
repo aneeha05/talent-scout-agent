@@ -145,7 +145,7 @@ if "df" in st.session_state:
         return 'color: #e74c3c'
 
     st.dataframe(
-        df.style.applymap(color_score, subset=["Match Score", "Interest Score", "Combined Score"]),
+        df.style.map(color_score, subset=["Match Score", "Interest Score", "Combined Score"]),
     )
 
     # Export button
