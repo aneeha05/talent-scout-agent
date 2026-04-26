@@ -12,16 +12,9 @@ Recruiters no longer need to manually sift through profiles or chase candidate i
 
 ---
 
-## 🎥 Demo Video
-
-> 📹 [Click here to watch the demo walkthrough](#) ← Replace with your Loom/YouTube link
-
----
-
 ## 🚀 Working Prototype
 
-> 🌐 [Live App on Streamlit Cloud](#) ← Replace with your deployed URL after deployment
-
+> 🌐 [Live App on Streamlit Cloud](https://talent-scout-agent-etdie8fg8rc4uenld4tt4i.streamlit.app) 
 ---
 
 ## 🏗️ Architecture Diagram
